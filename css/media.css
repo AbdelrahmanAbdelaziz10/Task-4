@@ -1,0 +1,103 @@
+@media only screen and (max-width: 768px) {
+    .header h1{
+        font-size: 50px;
+        line-height: 1.2;
+        font-weight: 700;
+    }
+    .header{
+        height: 55vh;
+    }
+    h3{
+        font-size: 25px;
+    }
+    .headerr{
+    height: 45vh;
+        }
+
+    .text{
+        padding: 12% 0%;
+    }
+    .Contact{
+        margin: 4% 0;
+    }
+    .Contact .btn{
+        font-size: 17px;
+        font-weight: 500;
+        padding: 26px 24px !important;
+        border: 1px solid #fdcb9e;
+    }
+    .Contact .roww {
+        padding-left: 5%;
+    }
+    .Contact i{
+        padding-left: 10px !important;
+        font-size: 20px !important;
+    }
+    .footer p{
+        line-height: 1;
+    }
+    .footer .icon{
+        text-align: left;
+        padding-left: 5%;
+        padding-bottom: 5%;
+        position: absolute;
+        left: 0;
+    }
+    .reed h3{
+        font-size: 20px;
+        font-weight: 400;
+    }
+    .choice h2{
+        font-size: 33px;
+    }
+    .choice p{
+        font-size: 16px;
+    }
+    .new_arrival .single-gallery img{
+        background-size: cover;
+    }
+}
+@media screen and (max-width:600px) {
+    .header{
+    padding: 3%;
+    height: 45vh;
+    }
+    .header h1{
+        font-size: 33px;
+        font-weight: 800;
+        line-height: 1.2;
+        margin: 28px 0;
+    }
+    .header p{
+        padding-right: 0px;
+        margin-bottom: 30px;
+        font-size: 17px;
+    }
+    .header a{
+        padding: 25px 29px;
+    }
+    .header .imeg{
+        opacity: 0;
+    }
+    .headerr h2 {
+        font-size: 38px;
+    }
+
+    .item a{
+        font-size: 12px!important;
+        padding-left: 12px;
+    }
+    .text{
+        padding-top: 15px !important;
+        padding-bottom: 28px !important;
+    }
+    .text h4{
+        font-size: 30px;
+    }
+    .text p{
+        font-size: 14px;
+        }
+    .reed h3{
+        font-size: 20px;
+        }
+}
